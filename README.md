@@ -1,2 +1,2 @@
 # diagram
-network topology prototype
+network topology blueprint
