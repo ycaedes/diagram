@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T13:52:40.283Z" agent="5.0 (X11)" etag="rpG2CAV_2WXbLXqqUXmW" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T18:20:50.929Z" agent="5.0 (Windows)" etag="c5PH7KBwR0k64tfY3PaA" version="14.4.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1717" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -67,14 +67,14 @@
         <mxCell id="1dI4HZFnmqrguRHLOIFw-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;endSize=6;fontSize=12;fontColor=#46495D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1dI4HZFnmqrguRHLOIFw-58" target="1dI4HZFnmqrguRHLOIFw-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1dI4HZFnmqrguRHLOIFw-58" value="&lt;b&gt;Step 2&lt;/b&gt;:" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1dI4HZFnmqrguRHLOIFw-58" value="&lt;b&gt;Step 2&lt;/b&gt;: Connect host machine to VPN on windows." style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="680" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M6YYphjlALdGDyQYb4H6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1dI4HZFnmqrguRHLOIFw-60" target="1dI4HZFnmqrguRHLOIFw-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1dI4HZFnmqrguRHLOIFw-60" value="&lt;b&gt;Step 3&lt;/b&gt;:" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="760" width="220" height="40" as="geometry" />
+        <mxCell id="1dI4HZFnmqrguRHLOIFw-60" value="&lt;b&gt;Step 3&lt;/b&gt;: Connect VPN to Tor Network via VM" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="760" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1dI4HZFnmqrguRHLOIFw-61" value="&lt;b&gt;Method B &lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#46495D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="810" width="80" height="20" as="geometry" />
